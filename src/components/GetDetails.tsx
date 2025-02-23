@@ -35,6 +35,7 @@ export default function GetDetails({ onSuccess }: Props) {
         onChange={(e) => setAge(Number(e.target.value))}
         min={10}
         max={120}
+        autoFocus
       >
         Age
       </Field>
