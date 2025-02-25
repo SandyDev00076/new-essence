@@ -29,5 +29,10 @@
     "typescript": "~5.7.2",
     "typescript-eslint": "^8.22.0",
     "vite": "^6.1.0"
-  }
+  },
+  "description": "An app which takes in user details such as - - Age - Sex - Male or Female - Systolic Pressure in mmHg - Diastolic Pressure in mmHg",
+  "main": "eslint.config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
